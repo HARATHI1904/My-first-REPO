@@ -1,0 +1,28 @@
+{
+    "profiles":[
+        {
+            "name":"Ch.Ramoji",
+            "Role":"student",
+            "email":"ramoji@gmail.com",
+            "education":[
+                {
+                    "sname":"zphs",
+                    "percentage":"95",
+                    "yop":"2017"
+                },
+                {
+                    "sname":"vijaya kranthi junior colleage",
+                    "percentage":"93",
+                    "yop":"2019"
+                     
+                },
+                {
+                    "sname":"nec",
+                    "percentage":"90",
+                    "yop":"2023"
+                }
+            ]
+        }
+        
+    ]
+}
